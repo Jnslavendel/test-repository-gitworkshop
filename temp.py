@@ -68,6 +68,7 @@ rmse = compute_rmse(M, U, V)
 print(f"Updated U matrix:\n{U}")
 print(f"Updated V matrix:\n{V}")
 <<<<<<< HEAD
+<<<<<<< HEAD
 print(f"RMSE after optimization: {rmse}")
 
 
@@ -77,3 +78,6 @@ def functionality(x):
 =======
 print(f"RMSE after optimization: {rmse}")
 >>>>>>> main
+=======
+print(f"RMSE after optimization: {rmse}")
+>>>>>>> parent of 0c56a38 (updated code)
