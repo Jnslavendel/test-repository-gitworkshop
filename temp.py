@@ -67,9 +67,13 @@ optimize_v(M, U, V, 0, 3)
 rmse = compute_rmse(M, U, V)
 print(f"Updated U matrix:\n{U}")
 print(f"Updated V matrix:\n{V}")
+<<<<<<< HEAD
 print(f"RMSE after optimization: {rmse}")
 
 
 def functionality(x):
     x = 12
     return x
+=======
+print(f"RMSE after optimization: {rmse}")
+>>>>>>> main
